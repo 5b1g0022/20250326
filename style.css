@@ -10,19 +10,23 @@ body{
     border-radius: 20px;
     margin: 50px;
 }
+
 .game-area{
     width: 80%;
     border-radius: 10px;
     padding: 20px;
     margin: 5px;
 }
+
 #game-info{
     background-color: rgb(117, 117, 117);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 #controls{
     background-color: rgb(91, 92, 93);
 }
+
 #game-container{
     background-color: rgb(93, 93, 93);
 }
